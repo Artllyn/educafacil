@@ -1,0 +1,83 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:12:{i:1;O:8:"stdClass":16:{s:2:"id";s:1:"1";s:2:"cm";s:1:"1";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:1:"2";s:6:"module";s:1:"9";s:5:"added";s:10:"1717983353";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:4:"name";s:6:"Avisos";s:10:"customdata";a:1:{s:12:"trackingtype";s:1:"1";}}i:2;O:8:"stdClass":17:{s:2:"id";s:1:"1";s:2:"cm";s:1:"2";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:1:"2";s:6:"module";s:2:"13";s:5:"added";s:10:"1717983440";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:53:"Metodologia: Videoaulas interativas Leituras compl...";s:7:"content";s:2004:"<div class="no-overflow"><p><strong>Metodologia:</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Videoaulas interativas</li>
+<li>Leituras complementares</li>
+<li>Exercícios práticos e estudos de caso</li>
+<li>Fóruns de discussão e sessões de Q&amp;A ao vivo</li>
+<li>Avaliações periódicas para monitorar o progresso</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<p><strong>Duração:</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ul>
+<li>6 semanas (com um total estimado de 30 horas de estudo)</li>
+</ul>
+</li>
+</ol>
+<p></p>
+<p><strong>Público-alvo:</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ul>
+<li>Estudantes de ensino médio e universitário</li>
+<li>Profissionais que desejam melhorar suas habilidades de estudo e gestão do tempo</li>
+<li>Qualquer pessoa interessada em aprimorar suas rotinas de estudo e produtividade</li>
+</ul>
+</li>
+</ol>
+<p></p>
+<p><strong>Requisitos:</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ul>
+<li>Nenhum pré-requisito específico. Acesso à internet e um dispositivo para assistir às videoaulas.</li>
+</ul>
+</li>
+</ol>
+<p></p>
+<p><strong>Certificação:</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Certificado de conclusão para os participantes que completarem todos os módulos e as avaliações finais.</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<h4><strong>Objetivos de Aprendizagem</strong></h4>
+<p></p>
+<ul>
+<li>Desenvolver habilidades de organização e gestão do tempo</li>
+<li>Implementar técnicas de estudo eficazes</li>
+<li>Criar e manter uma rotina de estudo produtiva</li>
+<li>Aumentar a capacidade de concentração e reduzir distrações</li>
+<li>Manter a motivação e a autodisciplina ao longo dos estudos</li>
+</ul>
+<p></p>
+<p>Este curso visa proporcionar as ferramentas e conhecimentos necessários para que os participantes possam estudar de maneira mais eficiente e alcançar melhores resultados em seus estudos e no trabalho.</p></div>";}i:3;O:8:"stdClass":17:{s:2:"id";s:1:"2";s:2:"cm";s:1:"3";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"3";s:6:"module";s:2:"13";s:5:"added";s:10:"1717983471";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Importância de uma rotina de estudos Identificação...";s:7:"content";s:137:"<div class="no-overflow"><ul>
+<li>Importância de uma rotina de estudos</li>
+<li>Identificação de objetivos e metas</li>
+</ul></div>";}i:9;O:8:"stdClass":17:{s:2:"id";s:1:"1";s:2:"cm";s:1:"9";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"3";s:6:"module";s:2:"18";s:5:"added";s:10:"1717983560";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"icon";s:7:"f/video";s:4:"name";s:14:"Aula - Video 1";s:10:"customdata";a:3:{s:10:"filtericon";b:1;s:14:"displayoptions";s:171:"a:3:{s:10:"printintro";i:1;s:8:"showtype";i:1;s:11:"filedetails";a:3:{s:4:"type";s:23:"Arquivo de vídeo (MP4)";s:8:"mimetype";s:9:"video/mp4";s:9:"extension";s:3:"MP4";}}";s:7:"display";i:1;}}i:4;O:8:"stdClass":17:{s:2:"id";s:1:"3";s:2:"cm";s:1:"4";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:1:"4";s:6:"module";s:2:"13";s:5:"added";s:10:"1717983483";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Leituras ativas e anotação eficiente Técnicas de m...";s:7:"content";s:201:"<div class="no-overflow"><ul>
+<li>Leituras ativas e anotação eficiente</li>
+<li>Técnicas de memorização (método de loci, mapas mentais)</li>
+<li>Revisão e prática espaçada</li>
+</ul></div>";}i:10;O:8:"stdClass":17:{s:2:"id";s:1:"2";s:2:"cm";s:2:"10";s:3:"mod";s:8:"resource";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:1:"4";s:6:"module";s:2:"18";s:5:"added";s:10:"1717983580";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"icon";s:5:"f/pdf";s:4:"name";s:13:"Livro - PDF 1";s:10:"customdata";a:3:{s:10:"filtericon";b:1;s:14:"displayoptions";s:168:"a:3:{s:10:"printintro";i:1;s:8:"showtype";i:1;s:11:"filedetails";a:3:{s:4:"type";s:13:"Documento PDF";s:8:"mimetype";s:15:"application/pdf";s:9:"extension";s:3:"PDF";}}";s:7:"display";i:5;}}i:5;O:8:"stdClass":17:{s:2:"id";s:1:"4";s:2:"cm";s:1:"5";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:1:"5";s:6:"module";s:2:"13";s:5:"added";s:10:"1717983494";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:55:"Ferramentas de organização (agendas, aplicativos) ...";s:7:"content";s:231:"<div class="no-overflow"><ul>
+<li>Ferramentas de organização (agendas, aplicativos)</li>
+<li>Priorização de tarefas (método Eisenhower, Matriz de Prioridades)</li>
+<li>Criação de um cronograma de estudos</li>
+</ul></div>";}i:11;O:8:"stdClass":16:{s:2:"id";s:1:"1";s:2:"cm";s:2:"11";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:1:"5";s:6:"module";s:2:"17";s:5:"added";s:10:"1717983609";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:42:"Mini Quiz: Planejamento e Gestão do Tempo";s:10:"customdata";a:1:{s:8:"timeopen";s:10:"1717983540";}}i:6;O:8:"stdClass":17:{s:2:"id";s:1:"5";s:2:"cm";s:1:"6";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:1:"6";s:6:"module";s:2:"13";s:5:"added";s:10:"1717983506";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:54:"Como criar um ambiente de estudo produtivo Técnica...";s:7:"content";s:169:"<div class="no-overflow"><ul>
+<li>Como criar um ambiente de estudo produtivo</li>
+<li>Técnicas para aumentar a concentração e reduzir distrações</li>
+</ul></div>";}i:12;O:8:"stdClass":16:{s:2:"id";s:1:"1";s:2:"cm";s:2:"12";s:3:"mod";s:6:"assign";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:1:"6";s:6:"module";s:1:"1";s:5:"added";s:10:"1717983852";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:59:"Criando um Ambiente de Estudo e Melhorando a Concentração";s:10:"customdata";a:2:{s:7:"duedate";s:10:"1718510400";s:24:"allowsubmissionsfromdate";s:10:"1717905600";}}i:7;O:8:"stdClass":17:{s:2:"id";s:1:"6";s:2:"cm";s:1:"7";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:1:"7";s:6:"module";s:2:"13";s:5:"added";s:10:"1717983518";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Estabelecimento de hábitos saudáveis Técnicas para...";s:7:"content";s:178:"<div class="no-overflow"><ul>
+<li>Estabelecimento de hábitos saudáveis</li>
+<li>Técnicas para manter a motivação</li>
+<li>Lidando com a procrastinação</li>
+</ul></div>";}i:8;O:8:"stdClass":17:{s:2:"id";s:1:"7";s:2:"cm";s:1:"8";s:3:"mod";s:5:"label";s:7:"section";s:1:"6";s:13:"sectionnumber";s:1:"6";s:9:"sectionid";s:1:"8";s:6:"module";s:2:"13";s:5:"added";s:10:"1717983531";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:57:"Autoavaliação de progresso Ajustes e otimizações c...";s:7:"content";s:146:"<div class="no-overflow"><ul>
+<li>Autoavaliação de progresso</li>
+<li>Ajustes e otimizações contínuas na rotina de estudo</li>
+</ul></div>";}}s:12:"sectioncache";a:7:{i:2;O:8:"stdClass":6:{s:2:"id";s:1:"2";s:7:"section";s:1:"0";s:4:"name";N;s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:3;O:8:"stdClass":6:{s:2:"id";s:1:"3";s:7:"section";s:1:"1";s:4:"name";s:50:"Módulo 1: Introdução às Estratégias de Estudo";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:4;O:8:"stdClass":6:{s:2:"id";s:1:"4";s:7:"section";s:1:"2";s:4:"name";s:41:"Módulo 2: Técnicas de Estudo Eficientes";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:5;O:8:"stdClass":6:{s:2:"id";s:1:"5";s:7:"section";s:1:"3";s:4:"name";s:42:"Módulo 3: Planejamento e Gestão do Tempo";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:6;O:8:"stdClass":6:{s:2:"id";s:1:"6";s:7:"section";s:1:"4";s:4:"name";s:46:"Módulo 4: Ambiente de Estudo e Concentração";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:7;O:8:"stdClass":6:{s:2:"id";s:1:"7";s:7:"section";s:1:"5";s:4:"name";s:55:"Módulo 5: Manutenção da Motivação e Autodisciplina";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:8;O:8:"stdClass":6:{s:2:"id";s:1:"8";s:7:"section";s:1:"6";s:4:"name";s:52:"Módulo 6: Avaliação e Ajustes na Rotina de Estudo";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:41:"Estratégias de Estudo e Gestão do Tempo";s:8:"fullname";s:41:"Estratégias de Estudo e Gestão do Tempo";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1717984323";}s:7:"version";i:1717984323;}

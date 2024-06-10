@@ -9,4 +9,4 @@ services:
       POSTGRES_PASSWORD: "m@0dl3ing"
       POSTGRES_DB: moodle
     volumes:
-      - .db_data/:/var/lib/postgresql/data
+      - ".db_data/:/var/lib/postgresql/data"
